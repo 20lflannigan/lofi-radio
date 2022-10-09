@@ -1,3 +1,8 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url(images/snowGif.gif);
+    background-size: cover;
+}
 .title{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
