@@ -1,0 +1,16 @@
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #cce1f2;
+    font-size: 50px;
+    font-weight: 200;
+    background: rgba(0, 0, 0, 0.5);
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+    
+}
+.video{
+    margin-left: 15em;
+    margin-top: 5em;
+}
