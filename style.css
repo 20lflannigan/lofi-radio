@@ -1,6 +1,6 @@
 body{
     background-repeat: no-repeat;
-    background-image: url(images/image1.gif);
+    background-image: url(images\image1.gif);
     background-size: cover;
 }
 .title{
